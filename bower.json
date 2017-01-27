@@ -1,5 +1,6 @@
 {
   "name": "ember2",
   "dependencies": {
+    "firebase": "^3.0.0"
   }
 }
